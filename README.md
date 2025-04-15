@@ -9,6 +9,7 @@ A UI overhaul for Burnout Revenge PS2
 
 ### Screenshots
 ![](screenshots/Gameplay.png)
+![](screenshots/Crash.png)
 ![](screenshots/Garage.png)
 ![](screenshots/Loading.png)
 ![](screenshots/Main%20Menu.png)
