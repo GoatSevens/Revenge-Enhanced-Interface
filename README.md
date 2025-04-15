@@ -1,7 +1,7 @@
 # Revenge-Enhanced-Interface
 by TheGoat07s
 
-A UI overhaul for Burnout Revenge PS2
+The feeling of getting new glasses
 
 > [!IMPORTANT]
 > This texture pack is intended for PCSX2
