@@ -20,6 +20,7 @@ Aiming to enhance all UI textures of Burnout Revnege's Interface.
 > * Gamepad icons (other than PS2)
 > * Improve flame texutures
 > * Online textures (UI elements found in online mode, including buttons)
+> * Car renders for loading screens (In place for them as of now are in-game screenshots)
 >
 > Do let me know if there are any UI elements that I missed apart from what I've mentioned above.
 
