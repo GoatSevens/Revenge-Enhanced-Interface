@@ -1,17 +1,18 @@
 # Revenge-Enhanced-Interface
 by TheGoat07s
 
-Aims to enhance all textures of Burnout Revnege's Interface
+Aiming to enhance all UI textures of Burnout Revnege's Interface.
 
 (This pack also supports Nahelam's Single Event Mod)
 
 > [!IMPORTANT]
-> This texture pack is intended for PCSX2
+> This texture pack is intended for PCSX2.
 > 
-> Only tested on SLUS-21242
+> Only tested on SLUS-21242.
 >
 > Installation:
-> * Simply drag and drop the "replacements" folder to PCSX2\textures\SLUS-21242
+> * Simply drag and drop the "replacements" folder to "PCSX2\textures\SLUS-21242".
+> * Set "Load Textures" to "On" under the "Texture Replacement" tab.
 
 > [!NOTE]
 > To do :
