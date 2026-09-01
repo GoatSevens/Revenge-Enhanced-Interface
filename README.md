@@ -1,5 +1,5 @@
 # Revenge-Enhanced-Interface
-by TheGoat07s
+by ZenoSevens (TheGoat07s)
 
 Aiming to enhance all UI textures of Burnout Revnege's Interface.
 
